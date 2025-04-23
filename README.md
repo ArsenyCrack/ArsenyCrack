@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)](https://t.me/orsofey)
 
-### My name is Arseny and I'm a programmer.
+### My name is Leon and I'm a programmer.
 
 ### Language and Tools
 ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=ellow)
