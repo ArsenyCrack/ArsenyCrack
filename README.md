@@ -18,8 +18,8 @@
 <!--[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)](https://vk.com/orsofey)-->
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)](https://www.instagram.com/orsofey/)-->
 
-### Stats
+<!--### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenycrack&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsenycrack&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsenycrack&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
