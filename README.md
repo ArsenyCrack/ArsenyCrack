@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-[![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)](https://t.me/orsofey)
-
 ### My name is Arseny and I'm a frontend-developer.
 
 ### Language and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ellow)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor=ellow)
 ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=ellow)
 ![ReactNative](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
