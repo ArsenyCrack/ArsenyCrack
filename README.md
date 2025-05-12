@@ -14,7 +14,7 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4ED7ED)](https://t.me/xxxyyyzzzlol)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4ED7ED)](https://t.me/musicalenjoyer)
 <!--[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)](https://vk.com/orsofey)-->
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)](https://www.instagram.com/orsofey/)-->
 
