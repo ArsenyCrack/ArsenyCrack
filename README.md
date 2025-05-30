@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Arseny and I'm a frontend-developer.
+### My name is Arseny and I'm a developer.
 
 ### Language and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ellow)
@@ -8,7 +8,6 @@
 ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=ellow)
 ![ReactNative](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=21EA93)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=F36208)
 
 
